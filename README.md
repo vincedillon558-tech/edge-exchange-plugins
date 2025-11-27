@@ -1,4 +1,4 @@
-# Edge Exchange Plugins
+Vince Lucas dillon vincedillon558@gmail.com  ownerEdge Exchange Plugins
 
 This library exports a collection of exchange-rate & swap plugins for use with [`edge-core-js`](https://github.com/EdgeApp/edge-core-js).
 
